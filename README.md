@@ -1,6 +1,10 @@
 RiskStratifiedEstimation
 ===========
 
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/rekkasA/RiskStratifiedEstimation/workflows/R-CMD-check/badge.svg)](https://github.com/rekkasA/RiskStratifiedEstimation/actions)
+<!-- badges: end -->
+
 Introduction
 ============
 RiskStratifiedEstimation is an R package for implementing risk stratified analyses for the assessment of treatment effect heterogeneity in an observational database in the OMOP Common Data Model. The package combines functionality of [PatientLevelPrediction](https://github.com/OHDSI/PatientLevelPrediction) and [CohortMethod](https://github.com/OHDSI/CohortMethod) R packages.
